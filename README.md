@@ -69,7 +69,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👥 Portfolio </h2>
     <div>
         <p>
-            <strong>Nexus : 지식을 공유, 거래하는 사이트</strong>
+            <a href="https://github.com/jhpark-coder/SpringBootProject_Group4.git"><strong>Nexus : 지식을 공유, 거래하는 사이트</strong></a>
             <ul>
                 <li><strong>역할</strong>: 사이트전반의 디자인 및 회원관련 기능, 추천로직, 경매 시스템 구성</li>
                 <li><strong>기간</strong>: 2025.06.21 ~ 2025.07.05</li>
@@ -77,7 +77,7 @@
             </ul>
         </p>
         <p>
-            <strong>MonInc : 3D 모델 커스텀 쇼핑 사이트</strong>
+            <a href="https://github.com/Ggasatan/MonInc.git"><strong>MonInc : 3D 모델 커스텀 쇼핑 사이트</strong></a>
             <ul>
                 <li><strong>기간</strong>: 2025.07.28 ~ 2025.09.03 </li>
                 <li><strong>목표</strong>: front와 spring boot, Node.js 연계한 3D모델을 출력, 커스텀 하는 사이트</li>
