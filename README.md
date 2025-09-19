@@ -1,5 +1,5 @@
 <div> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경험을 완성하는 개발자 '박영우'입니다.</h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⛳경험을 완성하는 개발자 '박영우'입니다.</h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         '사용자의 경험을 완성한다'는 생각으로<br> 
         디자인 업무로 커리어를 시작했던 저는<br> 
@@ -66,11 +66,14 @@
 </div>
 
 <div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👥 Portfolio </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Portfolio </h2>
     <div>
         <p>
             <a href="https://github.com/jhpark-coder/SpringBootProject_Group4.git"><strong>Nexus : 지식을 공유, 거래하는 사이트</strong></a>
             <ul>
+                <a href="https://github.com/Ggasatan/Ggasatan/raw/main/Nexus_팀프로젝트.pptx">
+                    <img src="https://img.shields.io/badge/Portfolio-Download-blue?style=for-the-             badge&logo=microsoftpowerpoint" alt="Portfolio Download"/>
+                </a>
                 <li><strong>역할</strong>: 사이트전반의 디자인 및 회원관련 기능, 추천로직, 경매 시스템 구성</li>
                 <li><strong>기간</strong>: 2025.06.21 ~ 2025.07.05</li>
                 <li><strong>목표</strong>: 디자인 및 개발 정보를 공유 및 거래하는 사이트</li>
