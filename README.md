@@ -1,5 +1,5 @@
 <div> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경험을 완성하는 개발자 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경험을 완성하는 개발자 '박영우'입니다.</h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         '사용자의 경험을 완성한다'는 생각으로<br> 
         디자인 업무로 커리어를 시작했던 저는<br> 
@@ -90,7 +90,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 교육 이력 </h2>
     <div>
         <ul>
-            <li><strong>AI활용 풀스택(프론트엔드,백엔드)부트캠프(자바,파이썬,플러터)</strong> (2025.04 ~ 2025.10)</li>
+            <li><strong>AI활용 풀스택(프론트엔드,백엔드)부트캠프(자바,파이썬,플러터)</strong> <br>(2025.04 ~ 2025.10)</li>
         </ul>
     </div>
 </div>
