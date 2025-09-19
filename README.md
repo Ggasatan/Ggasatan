@@ -81,10 +81,10 @@
         </p>
         <p>
             <a href="https://github.com/Ggasatan/MonInc.git"><strong>MonInc : 3D 모델 커스텀 쇼핑 사이트</strong></a>
+            <ul>
                 <a href="https://github.com/Ggasatan/Ggasatan/raw/main/MonsterIncPPT.pptx">
                     <img src="https://img.shields.io/badge/Portfolio-Download-blue?style=for-the-badge&logo=microsoftpowerpoint" alt="Portfolio Download"/>
                 </a>
-            <ul>
                 <li><strong>기간</strong>: 2025.07.28 ~ 2025.09.03 </li>
                 <li><strong>목표</strong>: front와 spring boot, Node.js 연계한 3D모델을 출력, 커스텀 하는 사이트</li>
             </ul>
