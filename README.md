@@ -71,7 +71,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Portfolio </h2>
     <div>
         <p>
-            <a href="https://github.com/jhpark-coder/SpringBootProject_Group4.git"><strong>Nexus : 지식을 공유, 거래하는 사이트</strong></a>
+            <a href="https://github.com/jhpark-coder/SpringBootProject_Group4.git"><strong>Nexus : 지식을 공유, 거래하는 사이트(Team)</strong></a>
             <ul>
                 <a href="https://github.com/Ggasatan/Ggasatan/raw/main/Nexus_팀프로젝트.pptx">
                     <img src="https://img.shields.io/badge/포트폴리오 다운로드%20-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Portfolio Download"/>
