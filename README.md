@@ -34,32 +34,30 @@
 </div>
 
 <div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 실무 경험 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 이전 경력 </h2>
     <div>
         <p>
-            <strong>공항철도 통합정보시스템 유지보수</strong> (2024.09. ~ 2025.04.)
+            <strong>크리스피브라더</strong> (2021.07. ~ 2022.01.)
             <ul>
-                <li><strong>소속회사</strong>: KCC정보통신 (공공기관 대상 시스템 전문 IT 기업)</li>
-                <li><strong>담당업무</strong>: 그룹웨어 및 ITSM 시스템 유지보수</li>
-                <li><strong>사용기술</strong>: Java, Spring Boot, JSP</li>
+                <li><strong>담당업무</strong>: 브랜드 디자인 및 편집, 웹 디자인</li>
+                <li><strong>사용기술</strong>: Photoshop, illustration, Figma, XD</li>
                 <li><strong>경험 및 성과</strong>:
                     <ul>
-                        <li>시스템 유지보수 업무를 통해 네트워크, 보안, 서버 운영 등 인프라 지식을 확장</li>
-                        <li>고객사 및 내부 직원 대응을 통해 소통 능력 및 문제 해결력 강화</li>
-                        <li>IT 전반에 대한 이해도와 함께 실무 기반의 소프트 스킬을 향상</li>
+                        <li>지역상관활성화 프로젝트에 참여하여 브랜드부터 행사 웹사이트를 구성했습니다.</li>
+                        <li>디자인 및 개발 사이에 협업 및 행사 진행했습니다.</li>
+                        <li>디자인뿐만 아니라 웹 개발에 대한 지식을 얻고 경험하게 되었습니다.</li>
                     </ul>
                 </li>
             </ul>
         </p>
         <p>
-            <strong>사회복지공무원 근무</strong> (2022)
+            <strong>비랜딩</strong> (2022.02. ~ 2023.07.)
             <ul>
-                <li><strong>소속기관</strong>: 동작구청</li>
-                <li><strong>담당업무</strong>: 동봄SOS서비스 센터 운영, 정부양곡 신청 및 관리, 복지플래너, 침수피해가구 긴급수리지원사업 신청 및 관리</li>
+                <li><strong>담당업무</strong>: 브랜드 디자인 및 웹 디자인, 개발</li>
                 <li><strong>경험 및 성과</strong>:
                     <ul>
-                        <li>공공행정복지의 구조와 절차에 대한 체계적인 이해</li>
-                        <li>공공시스템 사용자로서의 경험을 개발 업무에 접목 가능</li>
+                        <li>HTML, CSS를 공부하고 작업, 수정할 기회가 되었습니다.</li>
+                        <li>단순히 디자인만을 하는 것을 넘어 웹 사이트를 개발에 대한 기획에 참여했습니다.</li>
                     </ul>
                 </li>
             </ul>
@@ -68,22 +66,21 @@
 </div>
 
 <div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👥 팀 프로젝트 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👥 Portfolio </h2>
     <div>
         <p>
-            <strong>[똑똑] 자취생 커뮤니티 홈페이지</strong>
+            <strong>Nexus : 지식을 공유, 거래하는 사이트</strong>
             <ul>
-                <li><strong>역할</strong>: 팀장 역할 | 깃허브 관리 및 메뉴(레시피, 커뮤니티) 구현</li>
-                <li><strong>기간</strong>: 2023.04.27 ~ 2023.05.24</li>
-                <li><strong>목표</strong>: 자취생을 위한 정보 제공 및 마켓/커뮤니티 기능 제공</li>
+                <li><strong>역할</strong>: 사이트전반의 디자인 및 회원관련 기능, 추천로직, 경매 시스템 구성</li>
+                <li><strong>기간</strong>: 2025.06.21 ~ 2025.07.05</li>
+                <li><strong>목표</strong>: 디자인 및 개발 정보를 공유 및 거래하는 사이트</li>
             </ul>
         </p>
         <p>
-            <strong>[슬링술링] 전통주 정보 공유 플랫폼</strong>
+            <strong>_MonInc : 3D 모델 커스텀 쇼핑 사이트</strong>
             <ul>
-                <li><strong>역할</strong>: 프론트/백엔드 구현, DB 설계, 이미지·데이터 수집</li>
-                <li><strong>기간</strong>: 2023.08.01 ~ 2023.09.01</li>
-                <li><strong>목표</strong>: 다양한 전통주 소개 및 추천 기능 제공</li>
+                <li><strong>기간</strong>: 2025.07.28 ~ 2025.09.03 </li>
+                <li><strong>목표</strong>: front와 spring boot, Node.js 연계한 3D모델을 출력, 커스텀 하는 사이트</li>
             </ul>
         </p>
     </div>
@@ -93,14 +90,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 교육 이력 </h2>
     <div>
         <ul>
-            <li><strong>AWS 클라우드 기반 자바&스프링&리액트 풀스택 개발자 과정</strong> (2023.03 ~ 2023.09)</li>
-            <li><strong>김영한 자바 기본/중급 강의 수료</strong> (2024.1 / 2024.9)</li>
-            <li><strong>메타코드 SQL 5기 수료</strong> (2023.11)</li>
-            <li><strong>RPA 시민개발자 과정 수료</strong> (2024.1)</li>
-            <li><strong>투비소프트 NEXACRO 교육과정 수료</strong> (2025.06)</li>
-            <li><strong>한동대학교 컴퓨터공학 과목 15학점 수강</strong>
-                <ul><li>ICT융합입문, 앱프로그래밍, C프로그래밍, 자료구조, 자바프로그래밍</li></ul>
-            </li>
+            <li><strong>AI활용 풀스택(프론트엔드,백엔드)부트캠프(자바,파이썬,플러터)</strong> (2025.04 ~ 2025.10)</li>
         </ul>
     </div>
 </div>
@@ -109,14 +99,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏆 자격증 </h2>
     <div>
         <ul>
-            <li>정보처리기사 (2024.09)</li>
-            <li>SQLD (2023.12)</li>
-            <li>리눅스마스터 (2025.07)</li>
-            <li>컴퓨터활용능력 1급 (2020.07)</li>
-            <li>사회복지사 1급 (2021.04)</li>
-            <li>사회조사분석사 2급</li>
-            <li>정보기기운용기능사</li>
-            <li>워드프로세서 1급</li>
+            <li>GTQ (2021.03)</li>
+            <li>GTQi (2021.05)</li>
+            <li>컴퓨터그래픽스운용기능사 (2021.05)</li>
         </ul>
     </div>
 </div>
