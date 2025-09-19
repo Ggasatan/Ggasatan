@@ -74,7 +74,7 @@
             <a href="https://github.com/jhpark-coder/SpringBootProject_Group4.git"><strong>Nexus : 지식을 공유, 거래하는 사이트</strong></a>
             <ul>
                 <a href="https://github.com/Ggasatan/Ggasatan/raw/main/Nexus_팀프로젝트.pptx">
-                    <img src="https://img.shields.io/badge/포트폴리오 다운로드%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Portfolio Download"/>
+                    <img src="https://img.shields.io/badge/포트폴리오 다운로드?style=for-the-badge&logo=googledrive&logoColor=white" alt="Portfolio Download"/>
                 </a>
                 <li><strong>역할</strong>: 사이트전반의 디자인 및 회원관련 기능, 추천로직, 경매 시스템 구성</li>
                 <li><strong>기간</strong>: 2025.06.21 ~ 2025.07.05</li>
