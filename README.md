@@ -1,6 +1,10 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 경험을 완성하는 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> '사용자의 경험을 완성한다'는 생각으로 디자인 업무로 커리어를 시작했던 저는 이제 프론트부터 백까지 개발하고자 공부하고 도전하고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
+        '사용자의 경험을 완성한다'는 생각으로<br> 
+        디자인 업무로 커리어를 시작했던 저는<br> 
+        이제 프론트부터 백까지 개발하고자 공부하고 도전하고 있습니다. 
+    </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
