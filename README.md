@@ -77,7 +77,7 @@
             </ul>
         </p>
         <p>
-            <strong>_MonInc : 3D 모델 커스텀 쇼핑 사이트</strong>
+            <strong>MonInc : 3D 모델 커스텀 쇼핑 사이트</strong>
             <ul>
                 <li><strong>기간</strong>: 2025.07.28 ~ 2025.09.03 </li>
                 <li><strong>목표</strong>: front와 spring boot, Node.js 연계한 3D모델을 출력, 커스텀 하는 사이트</li>
